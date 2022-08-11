@@ -1,2 +1,2 @@
 # WebScrapping-PINEWATCH
-Repository d'esssai sur le webscrapping 
+AVANT D'APPLIQUER MON PROEJT GITUHB A VOTRE MONTRE, MERCI DE FAIRE UNE SAUVEGARDE.
